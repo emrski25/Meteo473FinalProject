@@ -23,9 +23,9 @@ This repository contains the code and data for the **Meteo473 Final Project**, w
   
 ## Group Members
 
-- **Name 1** - Role (e.g., Data Processing, Visualization)
-- **Name 2** - Role (e.g., Modeling, Code Optimization)
-- **Name 3** - Role (e.g., Data Collection, Report Writing)
+- **Landon Allmaras** 
+- **Ellie Rafalski** 
+
 
 
 
