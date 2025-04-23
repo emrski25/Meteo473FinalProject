@@ -8,7 +8,7 @@ accomplished) and list the group members. Be sure to pick a license
 
 ## Project Overview
 
-This repository contains the code and data for the **Meteo473 Final Project**, where we analyze and model weather patterns using forecast data. Our primary objective was to develop a set of tools for evaluating the severity of weather events based on a combination of meteorological parameters.
+This repository contains the code and data for the **Meteo473 Final Project**, where we analyze ecmwf models for usage to develop a severity index for tropical events. Our primary objective was to develop a set of tools for evaluating the severity of weather events based on a combination of meteorological parameters.
 
 ### Objectives:
 - Develop a custom **Severity Index** to assess the intensity of weather events.
