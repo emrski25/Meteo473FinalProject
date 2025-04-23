@@ -12,14 +12,17 @@ This repository contains the code and data for the **Meteo473 Final Project**, w
 
 ### Objectives:
 - Develop a custom **Severity Index** to assess the intensity of weather events.
-- Implement data processing pipelines to handle large-scale weather forecast data.
-- Use data visualization techniques to present findings and predictions effectively.
+- Implement functions for easier plotting due to volume of data displayed.
+- Utilize multiple plotting techniques to display standardization of the different components incorporated into the **Severity Index**.
 
 ## What We Accomplished
 
-- Designed and implemented a **Severity Index** that incorporates parameters like wind, precipitation, vorticity, and pressure.
+- Designed and implemented a **Severity Index** that incorporates the parameters of wind, precipitation, vorticity, and pressure.
 - Built a set of **Python scripts** for data manipulation and visualization using libraries such as `xarray`, `matplotlib`, and `cartopy`.
 - Created a **user-friendly interface** to visualize and interpret weather severity across multiple forecast hours.
+
+## License
+- We picked the MIT License for our project.
   
 ## Group Members
 
