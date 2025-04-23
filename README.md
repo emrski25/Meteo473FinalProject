@@ -1,9 +1,3 @@
-The repository should include all of your project code, in addition to a README.md with
-some amount of markdown customization (e.g. bullet points, header and subheader
-fonts). The README should briefly describe your project (objectives, what you
-accomplished) and list the group members. Be sure to pick a license
-
-
 # Meteo473 Final Project
 
 ## Project Overview
